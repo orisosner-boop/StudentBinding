@@ -6,7 +6,7 @@
     xmlns:local="clr-namespace:StudentBinding"
     Title="StudentBinding">
 
-    <ShellContent
+	<ShellContent
         Title="Home"
         ContentTemplate="{DataTemplate local:MainPage}"
         Route="MainPage" />
